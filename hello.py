@@ -10,4 +10,4 @@ print("Remote branch also moved forward.")
 
 print("This change is on practice-branch.")
 
-print("Hello from main branch!")
+print("Hello after resolving conflict!")
